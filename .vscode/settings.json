@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        ".vscode": true,
+        "**.odt**": true,
+        "**.zip": true,
+        "**/__pycache__": true
+    }
+}
